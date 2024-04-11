@@ -5,4 +5,13 @@ ARIA roles(Accessible Rich Internet Applications) roles
 Aria roles are a set of attributes that can be added to HTML elements to improve accessibility for users with disabilities. They help assistive technologies, such as screen readers, understand the purpose and structure of web content more accurately. ARIA roles include landmarks (e.g., navigation, main content, search), widgets (e.g., button, checkbox, slider), and more. By using ARIA roles appropriately, developers can make their web applications more accessible and usable for everyone.
 
 Html basics
--
+-Html document
+-Html heading
+-Html paragraphs
+-Html links
+-Html images
+-Html buttons
+-Html lists
+
+Html Attributes
+
