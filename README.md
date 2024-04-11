@@ -1,1 +1,3 @@
-# Html-week-1-4
+The web(World Wide Web), is an interconnected system of documents and resources that are accessed via the internet. Web was invented by Tim Berners-Lee in 1989.
+Web has been a fundamental aspect of modern life since it was invented. The web relies on technologies such as HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript to create and display content in web browsers. Websites are hosted on web servers and can be accessed using URLs (Uniform Resource Locators). The web encompasses a wide range of content, including static web pages, dynamic web applications, multimedia, and more. It has transformed communication, commerce, education, and entertainment on a global scale.
+
