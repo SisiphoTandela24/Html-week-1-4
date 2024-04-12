@@ -7,6 +7,7 @@ Aria roles are a set of attributes that can be added to HTML elements to improve
 HTML stands for Hypertext Markup Language. It's the standard language used to create and design web pages. It provides the structure and content of a webpage, using elements and tags to define various parts such as headings, paragraphs, images, links, and more.
 
 HTML Basics
+
 1.Tags
 HTML uses tags to define elements. Tags are enclosed in angle brackets, like `<tagname>`. They usually come in pairs, with an opening tag `<tagname>` and a closing tag `</tagname>`. For example, `<p>` is the opening tag for a paragraph, and `</p>` is the closing tag.
 
